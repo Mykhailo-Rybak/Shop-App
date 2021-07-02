@@ -1,5 +1,19 @@
-# [Check in Real Time](https://shop-app-mf.netlify.app/)
+### [Live Preview](https://shop-app-mf.netlify.app/)
+	
+## Technologies
+* React
+* React-router
+* Redux
+* Axios
+* Redux-thunk 
+* Bootstrap
 
-Start project, you can run:
+## Setup
+To run this project, install it locally using npm:
 
-### `npm start`
+```
+npm install
+```
+```
+npm start
+```
