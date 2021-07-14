@@ -1,4 +1,4 @@
-### [Live Preview](https://shop-app-mf.netlify.app/)
+# [Live Preview](https://shop-app-mf.netlify.app/)
 	
 ## Technologies
 * React
